@@ -1,0 +1,22 @@
+server:
+  port : 5566
+  url : "http://xcxx.cn.utools.club"
+datasource:
+  driverName : "mysql"
+  host : "192.144.163.73"
+  port : "3306"
+  database : "funding"
+  username : "funding"
+  password : "2zdraKZLhnjhNxTj"
+  charset : "utf8"
+system:
+  key : "8Hxzcg29bg0CVx79PzNj4O24IJWn2X7J"
+  did : "Poverty alleviation"
+  version : "1.0.0"
+  wxAppId : ""
+  wxSecret : ""
+redissource:
+  Network: "tcp"
+  host : ""
+  port : ""
+  password : ""
